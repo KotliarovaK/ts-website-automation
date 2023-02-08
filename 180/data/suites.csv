@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Feb 08 18:47:17 GMT 2023","Wed Feb 08 18:47:22 GMT 2023","4864","","","","","","CheckThatUserCanSwithedLanguageInHeaderBlock",""
+"passed","Wed Feb 08 18:52:54 GMT 2023","Wed Feb 08 18:52:58 GMT 2023","4006","","","","","","CheckThatUserCanSwithedLanguageInHeaderBlock",""
