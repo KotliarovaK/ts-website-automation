@@ -1,1 +1,1 @@
-{"CheckThatUserCanSwithedLanguageInHeaderBlock":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"3c094892c4b557cc","status":"passed","time":{"start":1675863927177,"stop":1675863930952,"duration":3775}}]}}
+{"CheckThatUserCanSwithedLanguageInHeaderBlock":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"c4d2ff57fd5cd90d","status":"passed","time":{"start":1675864659176,"stop":1675864662968,"duration":3792}}]}}
