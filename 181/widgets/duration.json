@@ -1,0 +1,1 @@
+[{"uid":"8e198b42fd274af5","name":"CheckThatUserCanSwithedLanguageInNavigationBlock","time":{"start":1675882652127,"stop":1675882655809,"duration":3682},"status":"passed","severity":"normal"},{"uid":"8e089103ce0503e8","name":"CheckThatUserCanSwithedLanguageInHeaderBlock","time":{"start":1675882647253,"stop":1675882651529,"duration":4276},"status":"passed","severity":"normal"}]
